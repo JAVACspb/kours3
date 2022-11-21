@@ -1,0 +1,10 @@
+в терминале:
+
+Что бы запустить:
+docker-compose up
+
+что бы остановить
+docker-compose stop
+
+что бы удалить
+docker-compose down
